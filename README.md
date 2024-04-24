@@ -1,4 +1,4 @@
-<h2>PYTHON_SMALL_PROJECTS </h2>
+<h2>PYTHON CODE GAMES</h2>
 <p>Fun and interesting games simulated via Python Programming Language. Learn how to build your game from scratch and show off to your friends.</p>
 
 <div>
